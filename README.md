@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @IlienesseC0sm1na / Alexandru
+- 👋  Hi, I’m @Ilienesse / Alexandru
 - 👀  I’m interested in technology, coding and gaming
 - 🌱  I’m currently learning coding in JavaScript, C++ and Python
 - 💞️  I’m looking to collaborate on GitHub with beginner developers
